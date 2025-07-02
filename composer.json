@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/swagger-generator",
+    "name": "my/swagger-generator",
     "description": "Swagger Generator for InfyOm Laravel Generator",
     "keywords": [
         "laravel",
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
+        "illuminate/support": "^12.0"
     },
     "autoload": {
         "psr-4": {
